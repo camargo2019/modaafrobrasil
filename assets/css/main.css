@@ -323,8 +323,9 @@
 	.floating-wrap-mo .tit-txt span{	display: table-cell;	vertical-align: middle}
 	.floating-wrap-mo .icon-close{	display: inline-block;	position: absolute;	top: 4px;	right: 14px;	width: 36px;	height: 36px;	box-sizing: border-box;	text-indent: -9999px;	text-align: center;	cursor: pointer;	vertical-align: middle}
 	.floating-wrap-mo .icon-close:before{	display: none}
-	.formContato{
-		width: 100%;
+	.formContato {
+	    width: 90%;
+	   margin-left: 5%;
 	}
 	.formContato input{
 		margin-top: 10px;
